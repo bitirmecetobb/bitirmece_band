@@ -1,2 +1,3 @@
 # bitirmece_band
-Bitirmece grubunun bant kontrol reposudur
+Bu repo silinecektir. Kodlara bu linkten erişebilirsiniz:
+https://github.com/bitirmecetobb/bitirmece_band/tree/main
